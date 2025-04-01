@@ -5,7 +5,6 @@ image    = "projects/f5-7626-networks-public/global/images/f5-bigip-17-1-2-0-0-8
 region = "europe-west3"
 zone = "europe-west3-a"
 zone2 = "europe-west3-b"
-f5_password = "gulf123"
 f5_service_account = "gulfemyumus@gmail.com"
 machine_type    = "n2-standard-16"
 disk_type       = "pd-ssd" 
